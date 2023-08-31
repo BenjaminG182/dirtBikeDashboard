@@ -6,10 +6,10 @@
 
 # To Do:
 
-Use Appwrite for auth
-Add items to database table with inventory
-Dirt Bike image loading screen ;)
-Categories for parts - Engine, Chasis, Electrical, Brakes, Cooling System, Fuel System
+- Use Appwrite for auth
+- Add items to database table with inventory
+- Dirt Bike image loading screen ;)
+- Categories for parts - Engine, Chasis, Electrical, Brakes, Cooling System, Fuel System
 
 Functions: 
 - Reorder function
