@@ -1,4 +1,4 @@
-# dirtBikeDashboard
+# dirtDash
 
  Dirt Bike repair store inventory tracker that has an algorithm that reorders product BEFORE it runs out of stock based on the usage of the mechanics.
 
